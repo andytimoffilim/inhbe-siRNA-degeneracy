@@ -1,0 +1,7 @@
+{
+  "from_pdf": {},
+  "fallback": {
+    "SSR-0108051": "RNA1{p.m(U)[Ssp].m(C)p.m(U)p.m(U)p.m(U)p.m(C)p.[fl2r](C)p.m(A)p.[fl2r](U)p.[fl2r](U)p.[fl2r](C)p.m(U)p.m(G)p.m(C)p.m(C)p.m(G)p.m(U)p.m(C)p.m(U)p.m(U)[Ssp].m(A)}",
+    "SSR-0108323": "RNA2{[d5m](U)[Ssp].[fl2r](A)[Rsp].m(A)[n001S].[fl2r](G)p.m(A)p.[fl2r](C)p.m(G)p.m(G)p.m(C)p.m(A)[n001R].[fl2r](G)p.m(A)p.m(A)p.[fl2r](U)p.m(G)p.[fl2r](G)p.m(A)p.m(A)p.m(A)p.m(G)p.m(A)[Ssp].m(U)[Ssp].m(U)}"
+  }
+}

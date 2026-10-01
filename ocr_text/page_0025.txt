@@ -1,0 +1,92 @@
+Table 1C. Examples of Passenger Sequences Targeting INHBE
+
+088290.0210
+
+PASSENGER
+SEQUENCE
+
+HELM
+
+BASE
+SEQUEN
+CE
+
+SSR-0108001
+
+RNAi fp mUYSsp} ofp mC ip mp nL yp. miOyp [A
+Srp mt Ayo 2c ie LD Prk Cp mi Lip miG
+youn(C jp.rmcC pp. m(Gip. mip mC ip. mU yp. mC Ssej.m
+{A} ICHEM 1 inCoo] CHEM? Gal NAc3C Lov SSCHE
+MURNALERI-LRICHEMLCHEM2 [-R2-
+LRESSSV2.0
+
+UCcCUUC
+CAUUCU
+UDA
+
+SSR-0108051
+
+RNAI fp oD Sep} m(C ip. m(Uip. m Dp mp. mit yo [fA
+2C yp nv Ada [eri Fer] CO yo Br (Oyp mi yp mG
+Tomtom Op mp. mL yp ofOp.ad Lp mc fSspiim
+(AY CHEM 1] inCGol CHEM? {iGalN Acs Pov li $SCHE
+MIRNALIERI-LRICHEM CHEM? 1:R2-
+PRLESEV2.0
+
+UCUUUEC
+CAUUCU
+OoCCGUC
+UTA
+
+SSR-0108059
+
+Table 1D
+
+GUIDE SEQUENCE
+SSR-0108302
+SSR-0108323
+SSR-0108321
+SSR-0108301
+SSR-0108682
+
+RNAI fon Sspf mio} (Gin. m(Gip. nC yp mA gp.
+21h yp. mt lp fark) Parl) rh C yp mi yp meu
+Foun(Gp mi Uo mp mi Up mp me Ae m( Gis ppm
+LA ICHEM 1 inCo6o]} KCHEM? (Gal NAc3C Lov lf SSCHE
+MIRNALERI-LRICHEME CHEMZ, I: R2-
+
+URESSSV2.0
+
+UGGGCA
+CUURCD
+UGUCUG
+AGA
+
+MW (Calculated) MW (ESI-MS)
+8133.54 8133.2
+8117.54 8116.9
+
+8062.50 8061.5
+8078.50 8077.2
+
+SSR-0108697
+
+7726.24 7725.6
+7781.28 7779.8
+
+SSR-0108324 7950.38 7947.7
+Table 1E
+PASSENGER SEQUENCE MW (Calculated) MW (ESI-MS)
+SSR-0108001 8551.29 8551.9
+SSR-0108051 8552.28 8553.2
+SSR-0108059 8734.45 8731.5
+
+Notes:
+
+HELM notations, due to their length, mav be divided into multiple lines in Table 1 (e.g.,
+
+Tables 1A, 1B, and 1C). As appreciated by those skilled in the art, nucleoside units are
+
+1257908 1v1
+
+25

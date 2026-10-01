@@ -1,0 +1,92 @@
+DSR-0104522
+
+088290.0210
+
+DSR-0104523
+DSR-0104293
+
+SSR-0108682 SSR-0108051
+SSR-0108697 SSR-0108051
+
+SSR-0108324 SSR-0108059
+
+Table 1A. Example Double Stranded Oligonucleotides Targeting INHBE
+
+ID
+DSR-
+0104212
+
+DSR-
+0104292
+
+DSR-
+0104290
+
+DSR-
+0104455
+
+DSR-
+0104522
+
+DSR-
+0104523
+
+HELM
+RNAI {p.m(U)[Ssp].m(C)p.m(C)p.m(U)p.m(U)p.m(C)p. [f12r] (C)p.m(A)p. [f12r]
+(U)p.[fl2r] U)p. [fl2r](C)p.m(U)p.m(G)p.m(C)p.m(C)p.m(G)p.m(U)p.m(C)p.m(U)
+p.m(U)[Ssp|.m(A)}|RNA2 {[d5m](U)|Ssp].|f12r](A)|Rsp].m(A)|n001S].[fl2r|(G)p.
+m(A)p.[f12r](C)p.m(G)p.m(G)p.m(C)p.m(A)[n001R].[f12r](G)p.m(A)p.m(A)p. [f12r]
+(U)p.m(G)p. [fl2r] (G)p.m(A)p.m(A)p.m(G)p.m(G)p.m(A)[Ssp].m(U)[Ssp].m(U) }|
+CHEM 1 {[nC60]}|CHEM2 {[GalNAc3C 12oy1]}|CHEM3 {[ptz] }$}CHEM1,.RNA1,1:
+R1-1:RI;CHEM3,RNA2,1:R1-1:RIJCHEM1,CHEM2, 1:R2-1:R1$$$V2.0
+RNA1 {p.m(U)[Ssp].m(C)p.m(U)p.m(U)p.m(U)p.m(C)p. [fl2r](C)p.m(A)p. [fl2r]
+(U)p. [f12r] (U)p.[fl2r](C)p.m(U)p.m(G)p.m(C)p.m(C)p.m(G)p.m(U)p.m(C)p.m(U)p.
+m(U)[Ssp].m(A)}|RNA2 {[d5m](U)[Ssp].[fl2r](A)[Rsp].m(A)[n001S].[fl2r](G)p.m(A)
+p.[fl2r](C)p.m(G)p.m(G)p.m(C)p.m(A)[n001R].[fl2r](G)p.m(A)p.m(A)p. [fl2r](U)p.m(
+G)p.[fl2r](G)p.m(A)p.m(A)p.m(A)p.m(G)p.m(A)[Ssp].m(U)|Ssp].m(U)}|CHEM] {[n
+C60] }|CHEM2{[GalNAc3C 1 2oy1]}|CHEM3 { [ptz]}}CHEM1,RNA1,1:R1-
+L:RIJCHEM3,RNA2.1:R1-1:RIJCHEM1,CHEM2.1:R2-1:R1$$$V2.0
+RNAI {p.m(U)[Ssp].m(C)p.m(U)p.m(U)p.m(U)p.m(C)p. [f12r] (C)p.m(A)p. [f12r](U)p.
+[fl2r](U)p. [fl2r](C)p.m(U)p.m(G)p.m(C)p.m(C)p.m(G)p.m(U)p.m(C)p.m(U)p.m(U)[S
+sp].m(A)}|RNA2 {[vped5m](U)[Ssp].[f12r](A)[Rsp].m(A)[n001S].[fl2r](G)p.m(A)p. [fl
+2r|(C)p.m(G)p.m(G)p.m(C)p.m(A)[n001R].[f12r](G)p.m(A)p.m(A)p.[fl2r](U)p.m(G)p
+.[f12r](G)p.m(A)p.m(A)p.m(A)p.m(G)p.m(A)[Ssp].m(U)[Ssp].m(U)}|CHEM 1 {[nC6o]
+}|CHEM2 {[GalN Ac3C 12oyl]}$CHEM1,RNAL,1:R1-1:RIJCHEM1.CHEM2, 1:R2-
+L:RI$$$V2.0
+RNA1 {p.m(U)[Ssp].m(C)p.m(C)p.m(U)p.m(U)p.m(C)p. [fl2r] (C)p.m(A)p. [fl2r](U)p. [f
+12r](U)p. [fl2r](C)p.m(U)p.m(G)p.m(C)p.m(C)p.m(G)p.m(U)p.m(C)p.m(U)p.m(U)[Ss
+p].m(A)}|RNA2{[vped5m](U)[Ssp].[fl2r](A)[Rsp].m(A)[n001S].[fl2r](G)p.m(A)p. [fl
+2r](C)p.m(G)p.m(G)p.m(C)p.m(A)[n001R].[fl2r](G)p.m(A)p.m(A)p.[fl2r](U)p.m(G)p
+.[f12r](G)p.m(A)p.m(A)p.m(G)p.m(G)p.m(A)[Ssp].m(U)[Ssp].m(U)}|CHEM 1 {[nC6o0]
+}|(CHEM2 {[GalNAc3C 12oyl1] }$CHEMI,RNAI,1:R1-1:RIJCHEM1,CHEM2, 1:R2-
+L:RIS$$$V2.0
+RNA1{p.m(U)[Ssp].m(C)p.m(U)p.m(U)p.m(U)p.m(C)p. [fl2r](C)p.m(A)p. [f12r]
+(U)p.|fl2r](U)p.[f12r](C)p.m(U)p.m(G)p.m(C)p.m(C)p.m(G)p.m(U)p.m(C)p.m(U)p
+.m(U)[Ssp].m(A)}|RNA2 {[vped5m](U)[Ssp].[fl2r](A) [Rsp].m(A)[n001S].[fl2r](G)p
+am(A)p.[fl2r](C)p.m(G)p.m(G)p.m(C)p.m(A)[n001R].[f12r](G)p.m(A)p.m(A)p.[f12r]
+(U)p.m(G)p.[fl2r](G)p.m(A)p.m(A)p.m(A)p.m(G)p.m(A)[Ssp].m(U)}|CHEM 1 {[nC6o
+}CHEM2{[GalNAc3C 1 2oyl]}$CHEM1,RNA1,1:R1-1:R1|CHEM1,CHEM2,1:R2-
+:R1$$$V2.0
+RNA {p.m(U)[Ssp].m(C)p.m(U)p.m(Uyp.m(Uyp.m (Cp. [f12r](©)p.m(Ayp [f12r|
+yp. [fl2r] U)p. [f12r](C)p.m(U)p.m(G)p.m(C)p.m(C)p.m(G)p.m(U)p.m(C)p.m(U)p
+(U)[Ssp].m(A)}|RNA2 {[d5m](U)[Ssp].[fl2r](A)[Rsp].m(A)[n001S].[f12r](G)p
+(A)p.[fl2r](C)p.m(G)p.m(G)p.m(C)p.m(A)[n001R].[f12r](G)p.m(A)p.m(A)p. [f12r]
+yp.m(G)p.[fl2r](G)p.m(A)p.m(A)p.m(A)p.m(G)p.m(A)[Ssp].m(U)}|CHEM 1 {[nC6o0
+}|(CHEM2{[GalNAc3C 1 2oyl]}|CHEM3 { [ptz]}$CHEM1,RNAI.1:R1-
+1:R1J|CHEM3,RNA2, 1:R1-1:R1J|CHEM1,CHEM2,1:R2-1:R1$$$V2.0
+
+ess ez2|5
+
+—
+
+DSR-
+0104293
+
+RNA1{p.m(U)[Ssp].m(G)p.m(G)p.m(G)p.m(C)p.m(A)p.[f12r](C)p.m(U)p. [f12r]
+(U)p. [fl2r] (U)p. [fl2r](C)p.m(U)p.m(U)p.m(G)p.m(U)p.m(C)p.m(U)p.m(G)p.m(A)
+p.m(G)[Ssp].m(A)}|RNA2 {[d5m](U)[Ssp]. [f12r](Q)[Rsp].m(U)[n001S].[fl2r](C)p.
+m(A)p.[fl2r](G)p.m(A)p.m(C)p.m(A)p.m(A)[n001R].[fl2r](G)p.m(A)p.m(A)p.[fl2r]
+
+1257908 1v1
+
+23

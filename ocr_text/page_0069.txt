@@ -1,0 +1,32 @@
+088290.0210
+9 86.10 20 89.81 31 72.24 42 38.26
+85.22 86.04
+DSR-0104212
+LOmg/kg
+YmRNA “mRNA
+remaining of remaining of
+Animal | mINHBE Animal | mINHBE
+no mRNA no mRNA
+40.42 30.31
+41.01 29.40
+44.61 31.80
+45.58 34.79
+35.66 43.20
+38.89 33.62
+33.79
+EXAMPLE 10. Jn vitro determination of siRNA activity in primary non-human-primate
+(NHP) hepatocyte
+For in vitro determination of siRNA activity in primary non-human-primate (NHP)
+5 hepatocyte, the siRNAs of the present disclosure at specific concentration were gymnotically
+delivered to primary hepatocytes plated at 96-well plates, with 10,000 cells/well. Following
+48 hours treatment, total RNA was extracted using SV96 Total RNA Isolation kit (Promega).
+cDNA production from RNA samples were performed using High-Capacity cDNA Reverse
+Transcription kit (Thermo Fisher) following the manufacturer’s instructions, and qPCR
+10 analysis was performed in CFX System using 1Q Multiplex Powermix (Bio-Rad). For NHP
+INHBE mRNA, the following qPCR assay was utilized: Thermo Fisher Taqman qPCR assay
+ID Rh02820386_ m1. NHP ACTB was used as normalizer Thermo Fisher Taqman qPCR assay
+ID Rh02621734 g1. Table 19 shows % IC50 of knocking down NHP INHBE mRNA in
+primary NHP hepatocyte.
+15
+69
+1257908 1v1

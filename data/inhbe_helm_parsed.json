@@ -1,0 +1,50 @@
+{
+  "DSR-0104292": {
+    "antisense_id": "SSR-0108323",
+    "sense_id": "SSR-0108051",
+    "antisense_seq": null,
+    "sense_seq": null,
+    "helm_anti": null,
+    "helm_sense": null
+  },
+  "DSR-0104290": {
+    "antisense_id": "SSR-0108321",
+    "sense_id": "SSR-0108051",
+    "antisense_seq": null,
+    "sense_seq": null,
+    "helm_anti": null,
+    "helm_sense": null
+  },
+  "DSR-0104455": {
+    "antisense_id": "SSR-0108301",
+    "sense_id": "SSR-0108001",
+    "antisense_seq": null,
+    "sense_seq": null,
+    "helm_anti": null,
+    "helm_sense": null
+  },
+  "DSR-0104212": {
+    "antisense_id": "SSR-0108302",
+    "sense_id": "SSR-0108001",
+    "antisense_seq": null,
+    "sense_seq": null,
+    "helm_anti": null,
+    "helm_sense": null
+  },
+  "DSR-0104522": {
+    "antisense_id": "SSR-0108682",
+    "sense_id": "SSR-0108051",
+    "antisense_seq": null,
+    "sense_seq": null,
+    "helm_anti": null,
+    "helm_sense": null
+  },
+  "DSR-0104523": {
+    "antisense_id": "SSR-0108697",
+    "sense_id": "SSR-0108051",
+    "antisense_seq": null,
+    "sense_seq": null,
+    "helm_anti": null,
+    "helm_sense": null
+  }
+}

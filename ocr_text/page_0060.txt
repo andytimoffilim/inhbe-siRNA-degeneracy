@@ -1,0 +1,42 @@
+088290.0210
+that the siRNA of the present disclosure suppressed body weight regain upon discontinuation
+of semaglutide. DIO mice given daily semaglutide regained 12% (P < 0.05) in body weight by
+24 days after final dosing, whereas DIO mice given both daily semaglutide and INHBE siRNA
+of the present disclosure (on day 21 and day 28) regained 3.5% (P = ns) of body weight by 24
+
+5 days after final dosing.
+EXAMPLE 7. Evaluation of INHBE siRNA Activity in Mice
+In vivo determination of mouse INHBE siRNA activity: All animal procedures were
+performed under IACUC guidelines. To evaluate the potency and liver exposure of provided
+oligonucleotides and compositions, male 39 weeks of age C57BL/6NTac mice were dose at 1,
+
+10 3 or 10 mg/kg at desired oligonucleotide concentration on day 0 by subcutaneous
+administration. Animals were euthanized on day 14 or day 28 (after overnight fasting) by CO2
+asphyxiation followed by thoracotomy and terminal blood collection. After cardiac perfusion
+with PBS, liver samples were harvested and flash-frozen in dry ice. Liver total RNA was
+extracted using SV96 Total RNA Isolation kit (Promega), after tissue lysis with TRIzol and
+
+15 bromochloropropane. cDNA production from RNA samples were performed using High-
+Capacity cDNA Reverse Transcription kit (Thermo Fisher) following the manufacturer’s
+instructions and qPCR analysis performed in CFX System using iQ Multiplex Powermix (Bio-
+Rad). For mouse INHBE mRNA, the following qPCR assay were utilized: Thermo Fisher
+Mm03023993_ ml. Mouse HPRT was used as normalizer (DT Mm.PT.39a.22214828).
+
+20 Oligonucleotide accumulation in the liver was determined by hybrid ELISA. Table 11 shows
+% mouse INHBE mRNA remaining relative to PBS control in the liver 14 days and 28 days
+post dosing. Table 12 shows % mouse INHBE mRNA remaining relative to PBS control in the
+liver 84 days and 168 days post dosing.
+
+Table 11
+DSR-0104292
+Pes 10 mg/kg
+YmMRNA *%mRNA “mRNA “mRNA
+remaining of remaining of remaining remaining of
+Animal | mINHBE Animal | mINHBE Animal | of mINHBE | Animal | mINHBE
+no mRNA no mRNA no mRNA no mRNA
+137.04 54.09] 9| 47.05 15.62
+94.82] 6 | 79.01 56.30 28.04
+77.86 61.15 43.22 23.39
+90.28] 8 | 51.72 40.20
+60
+1257908 1v1

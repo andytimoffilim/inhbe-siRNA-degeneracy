@@ -1,0 +1,36 @@
+088290.0210
+e Body composition changes as follows: Change in body fat percentage from baseline,
+percent change of visceral fat (kg) from baseline, and percent change in fat-free mass
+(kg) from baseline
+o Time frame: Day | through 169
+5 The clinical study is an ongoing, first-in-human clinical trial (3:1 active: placebo)
+evaluating DSR-0104292 in adults living with overweight or obesity and assesses safety,
+tolerability, pharmacokinetics, biomarkers for target engagement, body weight and
+composition, and metabolic health.
+Cohort 2 of the clinical study, which is evaluating single 240 mg doses of DSR-
+10 0104292, was expanded from eight to 32 individuals. This expansion was triggered by
+favorable safety and tolerability. as well as robust activin E reduction observed in Cohort | (75
+mg: n=8), the lowest single dose cohort. The 240 mg dose level is predicted to be
+therapeutically active based on preclinical diet-induced obesity (DIO) mice data, where a single
+dose of INHBE GalNAc-siRNA led to potent and durable reductions of both INHBE mRNA
+15 and activin E protein and drove weight loss.
+Dosing is complete for these additional participants in the expanded Cohort 2. Dosing
+is also underway in the Cohort 3 (400 mg).
+Additional clinical trials can also be designed and conducted by those skilled in the art
+in accordance with the present disclosure to assess safety and efficacv of DSR-0104292.
+20
+Summary
+In preclinical mouse models, the GalNAc-conjugated siRNA (GalNAc-siRNA)
+designed to silence the INHBE gene according to the present disclosure has demonstrated
+highly potent (ED50 < 1 mg/kg) and durable silencing following one, low-single-digit dose,
+25 supporting every-six-month or annual subcutaneous dosing in humans. Preclinical data also
+demonstrated weight loss similar to semaglutide, with no loss of muscle mass and a reduction
+in fat mass with preferential effects on visceral fat, consistent with the profile of INHBE loss-
+of-function (LoF) carriers in human genetics. These heterozygous INHBE LoF carriers,
+identified through multiple large human genetic databases including UK Biobank, have a
+30 favorable cardiometabolic profile, including reduced abdominal obesity and reduced odds of
+type 2 diabetes and coronary artery disease. In a separate study in DIO mice, when
+administered in combination with semaglutide, a single dose of the siRNA of the present
+disclosure doubled the weight loss observed with semaglutide alone and this effect was
+86
+1257908 1v1

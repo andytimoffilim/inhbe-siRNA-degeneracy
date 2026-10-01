@@ -1,0 +1,60 @@
+088290.0210
+qPCR assay were utilized: Thermo Fisher Taqman qPCR assay ID Rh02820386 ml. NHP
+ACTB was used as normalizer Thermo Fisher Taqman qPCR assay ID Rh02621734 g1.
+Table 13. % IC50 of knocking down mouse INHBE mRNA in primary mouse hepatocyte.
+IC50(nM) | 95% Cl
+
+DSR-0104290 4.06 to 17.37
+
+DSR-0104292 12.62 | 7.19 to 22.38
+
+DSR-0104455 1.58 to 13.13
+
+DSR-0104212 2.00 to 18.69
+
+5
+
+Table 14. % ICS0 of knocking down mouse INHBE mRNA in primary human hepatocyte.
+IC50(nM) | 95% Cl
+
+DSR-0104290 0.41 to 1.38
+
+DSR-0104292 0.63 to 1.40
+
+DSR-0104455 0.34 to 0.85
+
+DSR-0104212 0.54 to 1.51
+Table 15. % IC50 of knocking down mouse INHBE mRNA in primary rat hepatocyte.
+ICS0(nM) | 95% CI
+
+DSR-0104290 0.65 to 2.59
+
+DSR-0104292 0.59 to 3.58
+
+DSR-0104455 0.24 to 0.88
+
+DSR-0104212 0.28 to 0.87
+
+10 Table 16. % IC50 of knocking down mouse INHBE mRNA in primary human hepatocyte.
+
+ICS0(nM) | 95% CI
+
+DSR-0104290 0.38 to 1.41
+
+DSR-0104522 0.36 to 0.83
+
+DSR-0104292 0.57 to 1.84
+
+DSR-0104523 0.33 to 0.95
+Table 17. % IC50 of knocking down NHP INHBE mRNA in primary NHP hepatocyte.
+siRNA ___{IC50(nM) 95% Cl
+DSR-0104292 | __1.41. 0.65 to 2.97
+
+15 EXAMPLE 8. Nomenclature, chemistry and structure of DSR-0104292
+The drug substance (i.e., DSR-0104292) is a duplex of a Sense strand SSR-0108051
+and an Antisense strand SSR-0108323. The Sense sirand can be chemically described as the
+sodium salt (PS and PO) of a3’—5’ linked mixed PS/PO backbone 21 mer containing 2’-fluoro-
+2'-deoxy-/ 2’-O-methyl ribonucleic acid oligonucleotide, containing a combination of
+63
+
+1257908 1v1

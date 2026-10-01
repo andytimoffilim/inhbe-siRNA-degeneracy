@@ -1,0 +1,48 @@
+088290.0210
+mA represents 2°-O-methyladenosine;
+[n001S] represents Sp N-(1,3-dimethylimidazolidin-2-ylidene)phosphoramidate linkage
+(Sp-PN):
+| fl2r]G represents 2’-fluoro-2’-deoxy guanosine;
+5 p represents phosphate linkage (PO):
+[fl2r]C represents 2°-fluoro-2’-deoxycytidine;
+mG represents 2’-O-methylguanosine;
+mC represents 2’-O-methylcytidine:
+[n001R] represents Rp N-(1,3-dimethy limidazolidin-2-ylidene)phosphoramidate linkage
+10. (Rp-PN):
+[fl2r]U represents 2’-fluoro-2°-deoxyuridine; and
+mU represents 2’-O-methyluridine.
+
+SSR-0108323 [P(S)]-5'-(4-Phosphono-1,2,3-triazol-1-y1)-5'-deoxy-2’-O-methy l-P-
+
+(DSR-0104292 | thiouridylyl-(3'—5')-[P(R)]-2’-fluoro-2'-deoxy -P-thioadenylyl-
+
+Antisense strand) | (3'—5')-[P(S)]-2'-O-methyl-P-deoxy-P-[(1,3-dimethylimidazolidin-2-
+ylidene)amino]|adenylyl-(3'—5’)-2'-fluoro-2'-deoxy guanylyl-(3'’—5')-
+2'-O-methy ladenylyl-(3'—5')-2'-fluoro-2'-deoxy cytidylyl-(3’—5')-2'-
+O-methyl guanyly1-(3’—5')-2’-O-methvlguanylyl-(3'— 5’)-2'-O-
+methylcytidyl-(3'—5’)-[P(R) |-2'-O-methy1-P-deoxy-P-[(1,3-
+dimethylimidazolidin-2-ylidene)amino]adenylyl-(3'—5')-2'-fluoro-2'-
+deoxy guany lyl-(3’—5')-2'-O-methyladenylyl-(3’—5')-2'-O-
+methyladenyly1-(3'—5')-2’-fluoro-2'-deoxyunidylyl-(3'—5’)-
+2'-O-methylguanyly1-(3'—5')-2'-fluoro-2'-deoxy guany ly 1-(3'— 5’)-2'-
+O-methyladenylyl-(3'—5')-2'-O-methy ladenylyl-(3’—5')-2'-O-
+methyladenyly1-(3’—5')-2'-O-methylguanylyl-(3’—5')-[P(S) ]-2'-O-
+methy1-P-thioadenylyl-(3'—5')-[P(S) |-2'-O-methy1-P-thiouridylyl-
+(3'—5')-2'-O-methyluridine, docosasodium salt
+
+SSR-0108051 5'-O-(6-(12-(tris(((3-((3-((5-((2-(acetylamino)-2-deoxy-B-D-
+
+(DSR-0104292 | galactopyranosyl)oxy)-1-oxopenty!)amino)propyl)amino)-3-
+
+Sense strand) oxopropoxy )methy1!))methyl)amino-12-oxododecanamido)hexy!
+phospho)-[P(S)]-2'-O-methy1-P-thiouridylyl-(3'—5')-2'-O-
+methylcytidyl-(3’—5')-2'-O-methyluridylyl-(3’—5')-2'-O-
+methyluridylyl-(3'—5')- 2'-O-methyluridylyl-(3'—5’)-2'-O-
+methylcytidyl-(3’—5')-2'-fluoro-2'-deoxycytidylyl-(3’—5')-2'-O-
+methyladenyly1-(3'—5')-2’-fluoro-2'-deoxyunidylyl-(3'—5’)-2'-fluoro-
+2'-deoxy uridyly1-(3’—5')-2'-fluoro-2'-deoxycy tidyly1-(3’—5')-2'-O-
+methyluridylyl-(3'—5’)-2'-O-methyl guany lyl-(3'— 5')-2'-O-
+methylcytidyl-(3’—5')-2'-O-methylcytidyl-(3'—5')-2'-O-
+
+65
+1257908 1v1
